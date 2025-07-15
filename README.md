@@ -1,5 +1,5 @@
 # dkamm
-cs</br>
+Computer science student</br>
 Zurich</br>
 
 ##  Socials:
